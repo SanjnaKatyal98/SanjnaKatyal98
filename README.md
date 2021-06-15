@@ -1,4 +1,4 @@
-### Hi there, I'm Sanjna Katyal - aka [@SanjnaKatyal98] [https://github.com/SanjnaKatyal98] 
+### Hi there, I'm Sanjna Katyal - aka [Sanjna Katyal] [https://github.com/SanjnaKatyal98] 
 ## I'm a student at BVICAM
 
 - 👀 I’m currently working on sign language recognition project
