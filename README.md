@@ -12,15 +12,17 @@
 
 ## Skills:
 
-- Ethical Hacking
 - Java
+- MySQL
 - Python
 - C#
 - C++
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JS
 - Angular
+- Ethical Hacking
+- Data Science
 
 ## Language and Tools:
 
