@@ -18,7 +18,9 @@
 - C#
 - C++
 - HTML
-- Flutter
+- CSS
+- JS
+- Angular
 
 ## Language and Tools:
 
