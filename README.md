@@ -2,7 +2,7 @@
 ## I'm a student at BVICAM
 
 - 👀 I’m currently working on sign language recognition project
-- 🌱 I’m currently learning react and java full stack
+- 🌱 I’m currently learning java full stack
 - 💞️ I love to learn new coding languages and work on my skills
 - 📫 I also know how to play guitar and paint
 
