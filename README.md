@@ -7,7 +7,7 @@
 - 📫 I also know how to play guitar and paint
 
 ## Connect with me:
-<a href="linkedin.com/in/sanjna-katyal-17402612a"><img alt="linkedin" width="40px" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" /></a>
+<a href="linkedin.com/in/sanjna-katyal-17402612a"><img alt="linkedin" width="80px" src="https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" /></a>
 <br/>
 
 ## Skills:
