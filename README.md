@@ -23,6 +23,7 @@
 - Angular
 - Ethical Hacking
 - Data Science
+- Spring Boot
 
 ## Language and Tools:
 
