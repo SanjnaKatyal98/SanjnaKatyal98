@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanjna Katyal - aka [Sanjna Katyal] [https://github.com/SanjnaKatyal98] 
 ## I'm a working proffessional at Cognizant
 
-- 👀 I’m currently working on Microsoft Azure Certification
+- 👀 I’m currently working on GenAI Certification
 - 🌱 I’m currently learning AWS
 - 💞️ I love to learn new coding languages and work on my skills
 - 📫 I also know how to play guitar and paint
