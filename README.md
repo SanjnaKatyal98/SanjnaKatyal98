@@ -16,8 +16,6 @@
 - Java
 - MySQL
 - Python
-- C#
-- C++
 - HTML5
 - CSS3
 - JS
