@@ -20,9 +20,10 @@
 - CSS3
 - JS
 - Angular
+- Spring Boot
+- Microservices
 - Ethical Hacking
 - Data Science
-- Spring Boot
 
 ## Language and Tools:
 
