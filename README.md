@@ -22,8 +22,8 @@
 - Angular
 - Spring Boot
 - Microservices
-- Ethical Hacking
 - Data Science
+- React
 
 ## Language and Tools:
 
