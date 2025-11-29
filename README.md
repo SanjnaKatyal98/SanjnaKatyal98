@@ -13,17 +13,17 @@
 
 ## Skills:
 
-- Java
+- Angular
 - MySQL
-- Python
+- React
 - HTML5
 - CSS3
 - JS
-- Angular
+- Java
 - Spring Boot
 - Microservices
+- Python
 - Data Science
-- React
 
 ## Language and Tools:
 
